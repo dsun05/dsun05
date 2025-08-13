@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![David's GitHub stats](https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=responsive)
+![David's GitHub stats](https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05&layout=compact&theme=dark&exclude_repo=CS35L)](https://github.com/anuraghazra/github-readme-stats)
