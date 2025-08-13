@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05&layout=donut&theme=dark&exclude_repo=CS35L&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05&layout=donut&theme=dark&exclude_repo=CS35L&card_width=250" />
 </a>
 
 <a href="">
