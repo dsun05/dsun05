@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=dark)" />
+  <img height=200 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05&layout=compact&theme=dark&exclude_repo=CS35L&card_width=320" />
