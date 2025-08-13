@@ -7,7 +7,7 @@
   <tr >
     <th>
    <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
-  <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
+  <a href="https://www.linkedin.com/in/dsun05/" />   LinkedIn
     </th> 
         <th>
   <a href="https://devpost.com/dsun05" /> 
