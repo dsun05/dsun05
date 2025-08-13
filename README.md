@@ -9,15 +9,15 @@
    <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
   <a href="https://www.linkedin.com/in/dsun05/" />   LinkedIn
     </th> 
-        <th>
-  <a href="https://devpost.com/dsun05" /> 
-  <img align="center" width="24" height="24" src="https://img.icons8.com/color/48/dev-community.png" alt="dev-community"/>  
-  Devpost
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/color/48/dev-community.png" alt="devpost"/>   
+  <a href="https://devpost.com/dsun05" />   Devpost
     </th> 
-     <th>
-       <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
-        <a href=https://leetcode.com/u/dsun05/">LeetCode</a>
-    </th>
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo" alt="leetcode"/>   
+  <a href="https://leetcode.com/u/dsun05/" />   Leetcode
+    </th> 
+
   </tr>
   
 </table>
