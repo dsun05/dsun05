@@ -1,19 +1,35 @@
-## Hi there 👋
+![Header](./banner-sleek.png)
 
-<!--
-**dsun05/dsun05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header align="left">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="left">
+  <tr >
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
+  <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
+    </th> 
+        <th>
+  <a href="https://devpost.com/dsun05" /> 
+  <img align="center" width="24" height="24" src="https://img.icons8.com/color/48/dev-community.png" alt="dev-community"/>  
+  Devpost
+    </th> 
+     <th>
+       <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
+        <a href=https://leetcode.com/u/dsun05/">LeetCode</a>
+    </th>
+  </tr>
+  
+</table>
+</section>
+</header>  
+<section>  
+<br>
+<br>
+
+
+
+<hr>
 
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=dark&card_width=300" />
