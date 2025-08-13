@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <a href="">
-  <img height=150 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=dark" />
 </a>
 
 <a href="">
-  <img height=150 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05&layout=donut&theme=dark&exclude_repo=CS35L&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05&layout=donut&theme=dark&exclude_repo=CS35L&card_width=300" />
 </a>
 
 <a href="">
-  <img height=200 align="center" src="https://api.githubtrends.io/user/svg/dsun05/repos?time_range=three_months&include_private=True&loc_metric=changed&theme=dark" />
+  <img height=300 align="center" src="https://api.githubtrends.io/user/svg/dsun05/repos?time_range=three_months&include_private=True&loc_metric=changed&theme=dark" />
 </a>
