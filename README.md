@@ -27,7 +27,12 @@
 <br>
 <br>
 
+<hr>
 
+### About me ☕
+- Studies Cognitive Science and Linguistics and Computer Science at [UCLA](https://ucla.edu/).
+- Currently working on: [KeystarVerse](https://dsun05.github.io/KeystarVerseFront/). (Demo)
+- Hobbies: reading, gaming, and listening to music
 
 <hr>
 
