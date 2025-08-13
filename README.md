@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![David's GitHub stats](https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05&show_icons=true&theme=responsive)
 
-[![Anurag's GitHub stats](https://github-readme-stats-two-ashy-28.vercel.app/api?username=dsun05)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-ashy-28.vercel.app/api/top-langs/?username=dsun05)](https://github.com/anuraghazra/github-readme-stats)
